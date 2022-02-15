@@ -68,7 +68,7 @@
         <?php
             $Name=$_GET['Name'];
             $CurrentBalance=$_GET['CurrentBalance'];
-            echo " <p>Dear $Name Please the amount you want to Withdraw from your account</p>
+            echo " <p>Dear $Name Please enter the amount you want to Withdraw from your account</p>
                 <form action='updatewithdrawdetails.php?Name=$Name&CurrentBalance=$CurrentBalance' method='post'>
                     <input type='number' id='amount' name='amount'>
                     <input type='submit' name='Submit' value='Submit' id='Submit'>

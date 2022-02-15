@@ -26,7 +26,7 @@
         font-size:30px;
         font-weight:bold;
     }
-    /* select{
+    select{
         padding:10px 10px
     }
     option{
@@ -34,7 +34,7 @@
         color:purple;
         font-weight:bolder;
         font-size:15px;
-    } */
+    }
     input{
         margin-bottom:20px;
         padding:10px 10px;
