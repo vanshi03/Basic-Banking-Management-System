@@ -28,6 +28,6 @@
 ![Screenshot (6942)](https://user-images.githubusercontent.com/56712218/154077994-b0f7e710-e581-48ba-9b16-cbe72217f310.png)
 
 <br><br>
-##Issues faced:<br>
+## Issues faced:<br>
 1)How to transfer content of 1 PHP page to another : Use Query String to pass the PHP variable and $_GET Global variable in another PHP page to get the value of that variable entered by user.
 2)Computations not reflected in Database : Recheck the syntax-It should either be '$Variable_Name' or '".$Variable_Name."'
